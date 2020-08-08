@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sorting" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/search" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
@@ -42,13 +42,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build sorting/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <configuration name="go build search/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="algorithms" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
       <kind value="DIRECTORY" />
       <filePath value="$PROJECT_DIR$" />
-      <directory value="$PROJECT_DIR$/sorting" />
+      <directory value="$PROJECT_DIR$/search" />
       <method v="2" />
     </configuration>
   </component>
@@ -57,30 +57,30 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596822922501">
+    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596909089228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596822922501" />
-    <state x="409" y="60" key="FileChooserDialogImpl" timestamp="1596822919611">
+    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596909089228" />
+    <state x="409" y="60" key="FileChooserDialogImpl" timestamp="1596909086428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="409" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596822919611" />
-    <state width="1311" height="4" key="GridCell.Tab.0.bottom" timestamp="1596823483242">
+    <state x="409" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596909086428" />
+    <state width="1311" height="139" key="GridCell.Tab.0.bottom" timestamp="1596910173938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="4" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596823483242" />
-    <state width="1311" height="4" key="GridCell.Tab.0.center" timestamp="1596823483242">
+    <state width="1311" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596910173938" />
+    <state width="1311" height="139" key="GridCell.Tab.0.center" timestamp="1596910173938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="4" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596823483242" />
-    <state width="1311" height="4" key="GridCell.Tab.0.left" timestamp="1596823483242">
+    <state width="1311" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596910173938" />
+    <state width="1311" height="139" key="GridCell.Tab.0.left" timestamp="1596910173938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="4" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596823483242" />
-    <state width="1311" height="4" key="GridCell.Tab.0.right" timestamp="1596823483242">
+    <state width="1311" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596910173938" />
+    <state width="1311" height="139" key="GridCell.Tab.0.right" timestamp="1596910173938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="4" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596823483242" />
+    <state width="1311" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596910173938" />
     <state x="30" y="0" key="SettingsEditor" timestamp="1596821689998">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
