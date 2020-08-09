@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"math"
 )
 
@@ -19,10 +18,8 @@ func (eq *equation) solve() (float64, float64) {
 }
 
 //test
-func main() {
-
-	eq := equation{3, 2, 1}
-	res1, res2 := eq.solve()
-
-	fmt.Println(res1, res2)
-}
+//func main() {
+//	eq := equation{3, 2, 1}
+//	res1, res2 := eq.solve()
+//	fmt.Println(res1, res2)
+//}

@@ -29,10 +29,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/search" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/math" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramesh\Desktop\GoProjects\algorithms\math" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build math/">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="algorithms" />
       <working_directory value="$PROJECT_DIR$" />
@@ -42,45 +47,62 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build search/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <configuration name="go build math/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="algorithms" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
       <kind value="DIRECTORY" />
       <filePath value="$PROJECT_DIR$" />
-      <directory value="$PROJECT_DIR$/search" />
+      <directory value="$PROJECT_DIR$/math" />
       <method v="2" />
     </configuration>
+    <configuration name="go build vector2d.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/math/vector2d.go" />
+      <directory value="$PROJECT_DIR$/math" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build math/" />
+      <item itemvalue="Go Build.go build vector2d.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build vector2d.go" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596909089228">
+    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596995562147">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596909089228" />
-    <state x="409" y="60" key="FileChooserDialogImpl" timestamp="1596909086428">
+    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596995562147" />
+    <state x="409" y="60" key="FileChooserDialogImpl" timestamp="1596995590474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="409" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596909086428" />
-    <state width="1311" height="139" key="GridCell.Tab.0.bottom" timestamp="1596910223445">
+    <state x="409" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596995590474" />
+    <state width="1311" height="119" key="GridCell.Tab.0.bottom" timestamp="1596996721260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596910223445" />
-    <state width="1311" height="139" key="GridCell.Tab.0.center" timestamp="1596910223445">
+    <state width="1311" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596996721260" />
+    <state width="1311" height="119" key="GridCell.Tab.0.center" timestamp="1596996721260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596910223445" />
-    <state width="1311" height="139" key="GridCell.Tab.0.left" timestamp="1596910223445">
+    <state width="1311" height="119" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596996721260" />
+    <state width="1311" height="119" key="GridCell.Tab.0.left" timestamp="1596996721260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596910223445" />
-    <state width="1311" height="139" key="GridCell.Tab.0.right" timestamp="1596910223445">
+    <state width="1311" height="119" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596996721260" />
+    <state width="1311" height="119" key="GridCell.Tab.0.right" timestamp="1596996721260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596910223445" />
+    <state width="1311" height="119" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596996721260" />
     <state x="30" y="0" key="SettingsEditor" timestamp="1596821689998">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
