@@ -36,7 +36,7 @@ func (v *vector2d) dist(v1 vector2d) float64 {
 
 
 func (v *vector2d) mag() float64 {
-	return math.Sqrt(v.x * v.x + v.y + v.y)
+	return math.Sqrt(v.x * v.x + v.y * v.y)
 }
 
 //test
