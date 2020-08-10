@@ -11,8 +11,8 @@ type equation struct {
 }
 
 func (eq *equation) solve() (float64, float64) {
-	formPos := -eq.b + math.Sqrt(eq.b - (4 * eq.a * eq.c))
-	formNeg := -eq.b - math.Sqrt(eq.b - (4 * eq.a * eq.c))
+	formPos := -eq.b + math.Sqrt((eq.b * eq.b) - (4 * eq.a * eq.c))
+	formNeg := -eq.b - math.Sqrt((eq.b * eq.b) - (4 * eq.a * eq.c))
 
 	return formPos / 2 * eq.a, formNeg / 2 * eq.a
 }
