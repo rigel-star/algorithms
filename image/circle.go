@@ -42,6 +42,6 @@ func save(img image.Image, path string) {
 }
 
 
-func main() {
-	draw(500, 500, 250, 250, 100)
-}
+//func main() {
+//	draw(500, 500, 250, 250, 100)
+//}

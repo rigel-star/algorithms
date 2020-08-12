@@ -15,7 +15,7 @@ const (
 )
 
 
-func generate() {
+func generateSet() {
 	pImag := 0.0
 	pReal := 0.0
 	newRe := 0.0
@@ -78,6 +78,6 @@ func saveImg(img image.Image, path string) {
 }
 
 
-func main() {
-	generate()
-}
+//func main() {
+//	generateSet()
+//}

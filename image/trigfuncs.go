@@ -21,8 +21,3 @@ func drawWave(w wave) {
 		break
 	}
 }
-
-func main() {
-	w := wave{sine}
-	drawWave(w)
-}
