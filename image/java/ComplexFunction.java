@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Adrian Wälchli
+ * @author Adrian WÃ¤lchli
  */
 public class ComplexFunction extends JPanel {
 	private static final long serialVersionUID = 1L;
@@ -56,6 +56,11 @@ public class ComplexFunction extends JPanel {
 			}
 		}
 	}
+	
+	//make your own functions like
+	/*
+	e.g. f(z) = z^2
+	*/
 	
 	
 	public static Complex function(double x) {
