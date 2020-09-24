@@ -1,7 +1,7 @@
 package main
 
 import (
-	"colorica"
+	"github.com/rigel-star/colorica"
 	"fmt"
 	"math"
 	"math/rand"
